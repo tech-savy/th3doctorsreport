@@ -1,0 +1,2 @@
+[16-Jul-2020 14:19:47 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/iixcyrum/public_html/app/controllers/posts_one.php:65) in /home/iixcyrum/public_html/app/controllers/posts_one.php on line 67
+[16-Jul-2020 14:21:56 Africa/Nairobi] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/iixcyrum/public_html/app/controllers/posts_one.php on line 65
